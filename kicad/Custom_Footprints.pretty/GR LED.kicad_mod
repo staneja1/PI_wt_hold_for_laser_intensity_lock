@@ -1,0 +1,88 @@
+(footprint "GR LED"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at 0 2.95 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "0ca08774-18f4-4934-b0b8-d850cb6c5f92")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+		)
+	)
+	(property "Value" "GR LED"
+		(at 0 4.65 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "c256cfc1-cfe7-414c-be92-d3c4e76491be")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "421c185d-c86d-4f58-a077-1ab14e60f195")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "d6e11d2c-600c-44a6-9860-31cddd0e942a")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(fp_text user "${REFERENCE}"
+		(at 0 6.55 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "abb7ac99-ccc1-4411-beac-542caa2e4080")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "1" smd rect
+		(at -0.45 0)
+		(size 0.9 0.9)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "a76aacf1-1b2d-4401-996f-4a0425cd7d9a")
+	)
+	(pad "2" smd rect
+		(at 0.2 -1.375)
+		(size 1.5 0.75)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "0a323101-4ff3-4a08-8ddc-30b958b7d308")
+	)
+	(pad "3" smd rect
+		(at 0.2 1.375)
+		(size 1.5 0.75)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "7a88ffc3-7539-4034-9d96-4e97d8f335e2")
+	)
+	(embedded_fonts no)
+)
