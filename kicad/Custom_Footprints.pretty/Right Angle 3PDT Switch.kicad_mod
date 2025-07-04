@@ -54,6 +54,16 @@
 		)
 	)
 	(attr smd)
+	(fp_line
+		(start 15.5 -7.5)
+		(end 15.5 8.25)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "1bdcff0c-3f0c-4ae2-bf89-ecb1cab29c00")
+	)
 	(fp_text user "${REFERENCE}"
 		(at 0 11.85 0)
 		(unlocked yes)

@@ -9534,7 +9534,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical"
+		(property "Footprint" "Custom_Footprints:Bourns Circular Pots"
 			(at 140.97 142.24 0)
 			(effects
 				(font
@@ -10124,7 +10124,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical"
+		(property "Footprint" "Custom_Footprints:Bourns Circular Pots"
 			(at 93.218 120.65 90)
 			(effects
 				(font
@@ -11278,31 +11278,31 @@
 			)
 		)
 		(pin "10"
-			(uuid "2f93abb6-368d-4785-9107-3b3e203a8418")
+			(uuid "2f93abb6-368d-4785-9107-3b3e203a8419")
 		)
 		(pin "3"
-			(uuid "afd7238f-f330-4720-93d8-d3d917b2ecba")
+			(uuid "afd7238f-f330-4720-93d8-d3d917b2ecbb")
 		)
 		(pin "4"
 			(uuid "3d63ff22-769a-431c-bb7a-a5a52f15a927")
 		)
 		(pin "2"
-			(uuid "f70a013f-0252-4855-b1e1-a1837010218b")
+			(uuid "f70a013f-0252-4855-b1e1-a1837010218c")
 		)
 		(pin "9"
-			(uuid "7971e0b6-107d-4214-b88d-ff2c28a03fdf")
+			(uuid "7971e0b6-107d-4214-b88d-ff2c28a03fe0")
 		)
 		(pin "1"
-			(uuid "df3036c8-5ea8-4ec0-ac8d-7e35c28eaf75")
+			(uuid "df3036c8-5ea8-4ec0-ac8d-7e35c28eaf76")
 		)
 		(pin "5"
 			(uuid "aca0ecc4-6c16-4c4b-a040-1026e29b45c2")
 		)
 		(pin "6"
-			(uuid "991c8134-bdd2-4954-a8c2-bf524d5d43f1")
+			(uuid "991c8134-bdd2-4954-a8c2-bf524d5d43f2")
 		)
 		(pin "8"
-			(uuid "92fbcb48-740a-4950-8c39-429a4a19770c")
+			(uuid "92fbcb48-740a-4950-8c39-429a4a19770d")
 		)
 		(instances
 			(project "intensity_pi"
@@ -11765,7 +11765,7 @@
 			)
 		)
 		(pin "10"
-			(uuid "2f93abb6-368d-4785-9107-3b3e203a8419")
+			(uuid "2f93abb6-368d-4785-9107-3b3e203a841a")
 		)
 		(pin "3"
 			(uuid "af5d3a23-1279-40e8-8e27-4cadf3a78827")
@@ -11777,19 +11777,19 @@
 			(uuid "c5918683-99de-401d-8ab4-66a6b477b821")
 		)
 		(pin "9"
-			(uuid "7971e0b6-107d-4214-b88d-ff2c28a03fe0")
+			(uuid "7971e0b6-107d-4214-b88d-ff2c28a03fe2")
 		)
 		(pin "1"
-			(uuid "df3036c8-5ea8-4ec0-ac8d-7e35c28eaf76")
+			(uuid "df3036c8-5ea8-4ec0-ac8d-7e35c28eaf77")
 		)
 		(pin "5"
 			(uuid "5f706d08-f810-425a-8ff6-6ec846c30d19")
 		)
 		(pin "6"
-			(uuid "991c8134-bdd2-4954-a8c2-bf524d5d43f2")
+			(uuid "991c8134-bdd2-4954-a8c2-bf524d5d43f4")
 		)
 		(pin "8"
-			(uuid "92fbcb48-740a-4950-8c39-429a4a19770d")
+			(uuid "92fbcb48-740a-4950-8c39-429a4a19770f")
 		)
 		(instances
 			(project "intensity_pi"
@@ -12224,31 +12224,31 @@
 			)
 		)
 		(pin "10"
-			(uuid "2f93abb6-368d-4785-9107-3b3e203a8419")
+			(uuid "2f93abb6-368d-4785-9107-3b3e203a841b")
 		)
 		(pin "3"
-			(uuid "afd7238f-f330-4720-93d8-d3d917b2ecbb")
+			(uuid "afd7238f-f330-4720-93d8-d3d917b2ecbd")
 		)
 		(pin "4"
-			(uuid "bd3efcab-37ad-414f-94a8-b1ff78e25b1b")
+			(uuid "bd3efcab-37ad-414f-94a8-b1ff78e25b1d")
 		)
 		(pin "2"
-			(uuid "f70a013f-0252-4855-b1e1-a1837010218c")
+			(uuid "f70a013f-0252-4855-b1e1-a1837010218e")
 		)
 		(pin "9"
-			(uuid "7971e0b6-107d-4214-b88d-ff2c28a03fe0")
+			(uuid "7971e0b6-107d-4214-b88d-ff2c28a03fe3")
 		)
 		(pin "1"
-			(uuid "df3036c8-5ea8-4ec0-ac8d-7e35c28eaf76")
+			(uuid "df3036c8-5ea8-4ec0-ac8d-7e35c28eaf78")
 		)
 		(pin "5"
-			(uuid "5f706d08-f810-425a-8ff6-6ec846c30d19")
+			(uuid "5f706d08-f810-425a-8ff6-6ec846c30d1b")
 		)
 		(pin "6"
-			(uuid "991c8134-bdd2-4954-a8c2-bf524d5d43f2")
+			(uuid "991c8134-bdd2-4954-a8c2-bf524d5d43f5")
 		)
 		(pin "8"
-			(uuid "92fbcb48-740a-4950-8c39-429a4a19770d")
+			(uuid "92fbcb48-740a-4950-8c39-429a4a197710")
 		)
 		(instances
 			(project ""
@@ -12527,31 +12527,31 @@
 			)
 		)
 		(pin "10"
-			(uuid "2f93abb6-368d-4785-9107-3b3e203a841a")
+			(uuid "2f93abb6-368d-4785-9107-3b3e203a841c")
 		)
 		(pin "3"
-			(uuid "afd7238f-f330-4720-93d8-d3d917b2ecbc")
+			(uuid "afd7238f-f330-4720-93d8-d3d917b2ecbe")
 		)
 		(pin "4"
-			(uuid "bd3efcab-37ad-414f-94a8-b1ff78e25b1c")
+			(uuid "bd3efcab-37ad-414f-94a8-b1ff78e25b1e")
 		)
 		(pin "2"
-			(uuid "f70a013f-0252-4855-b1e1-a1837010218d")
+			(uuid "f70a013f-0252-4855-b1e1-a1837010218f")
 		)
 		(pin "9"
-			(uuid "7971e0b6-107d-4214-b88d-ff2c28a03fe1")
+			(uuid "7971e0b6-107d-4214-b88d-ff2c28a03fe4")
 		)
 		(pin "1"
-			(uuid "df3036c8-5ea8-4ec0-ac8d-7e35c28eaf77")
+			(uuid "df3036c8-5ea8-4ec0-ac8d-7e35c28eaf79")
 		)
 		(pin "5"
-			(uuid "5f706d08-f810-425a-8ff6-6ec846c30d1a")
+			(uuid "5f706d08-f810-425a-8ff6-6ec846c30d1c")
 		)
 		(pin "6"
-			(uuid "991c8134-bdd2-4954-a8c2-bf524d5d43f3")
+			(uuid "991c8134-bdd2-4954-a8c2-bf524d5d43f6")
 		)
 		(pin "8"
-			(uuid "92fbcb48-740a-4950-8c39-429a4a19770e")
+			(uuid "92fbcb48-740a-4950-8c39-429a4a197711")
 		)
 		(instances
 			(project ""
@@ -12739,6 +12739,24 @@
 			)
 		)
 		(property "Description" ""
+			(at 179.07 41.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DIGIKEY" "EG6100-ND"
+			(at 179.07 41.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PARTNO" "1004P6T1B4M7RE"
 			(at 179.07 41.91 0)
 			(effects
 				(font
@@ -13615,7 +13633,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical"
+		(property "Footprint" "Custom_Footprints:Bourns Circular Pots"
 			(at 33.02 116.84 0)
 			(effects
 				(font
@@ -15487,7 +15505,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical"
+		(property "Footprint" "Custom_Footprints:Bourns Circular Pots"
 			(at 134.62 32.258 90)
 			(effects
 				(font
