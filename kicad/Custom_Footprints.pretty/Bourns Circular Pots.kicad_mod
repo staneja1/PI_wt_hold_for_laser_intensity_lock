@@ -95,6 +95,17 @@
 		(uuid "f807481f-58d2-4728-a791-fa468ec6ec24")
 	)
 	(fp_rect
+		(start -11.6 -6.1)
+		(end 6.99 6.1)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.SilkS")
+		(uuid "2a8e98f8-8471-48f0-b85f-38f128178d00")
+	)
+	(fp_rect
 		(start 6.99 -5.155)
 		(end 27.62 5.155)
 		(stroke
@@ -140,6 +151,38 @@
 		(layers "*.Cu" "*.Mask")
 		(remove_unused_layers no)
 		(uuid "04de4010-d9cd-4d0a-8239-b765618c530c")
+	)
+	(zone
+		(net 0)
+		(net_name "")
+		(layer "F.SilkS")
+		(uuid "d2027e25-0584-4c35-8113-9cad21e7060f")
+		(hatch edge 0.5)
+		(connect_pads
+			(clearance 0)
+		)
+		(min_thickness 0.25)
+		(filled_areas_thickness no)
+		(keepout
+			(tracks allowed)
+			(vias allowed)
+			(pads allowed)
+			(copperpour allowed)
+			(footprints allowed)
+		)
+		(placement
+			(enabled no)
+			(sheetname "")
+		)
+		(fill
+			(thermal_gap 0.5)
+			(thermal_bridge_width 0.5)
+		)
+		(polygon
+			(pts
+				(xy 6.99 6.1) (xy 6.99 -6.1) (xy -11.6 -6.1) (xy -11.6 6.1)
+			)
+		)
 	)
 	(embedded_fonts no)
 )
