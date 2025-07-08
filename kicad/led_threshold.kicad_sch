@@ -4261,6 +4261,24 @@
 				(hide yes)
 			)
 		)
+		(property "MPN" ""
+			(at 195.58 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DIGIKEY" "2019-RN73H2ATTD1002B25CT-ND"
+			(at 195.58 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "cf7b713a-a697-4bb0-89e0-7507faf37249")
 		)
@@ -4338,6 +4356,15 @@
 				(hide yes)
 			)
 		)
+		(property "MPN" ""
+			(at 74.93 91.44 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "517cf76c-e304-480b-a3af-b1e5903533f5")
 		)
@@ -4371,7 +4398,7 @@
 				)
 			)
 		)
-		(property "Value" "~"
+		(property "Value" "4x Comparator"
 			(at 139.7 57.7149 0)
 			(effects
 				(font
@@ -4425,6 +4452,15 @@
 			)
 		)
 		(property "PARTNO" "UPC177G2(20)-E2-A"
+			(at 129.54 60.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" ""
 			(at 129.54 60.96 0)
 			(effects
 				(font
@@ -4687,6 +4723,24 @@
 				(hide yes)
 			)
 		)
+		(property "MPN" ""
+			(at 184.15 24.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DIGIKEY" "2019-RN73H2ATTD1002B25CT-ND"
+			(at 184.15 24.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "3c312551-1ddf-4d9f-b521-7ee86f661ed6")
 		)
@@ -4833,6 +4887,15 @@
 			)
 		)
 		(property "PARTNO" "2N7002BK,215"
+			(at 228.6 48.26 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" ""
 			(at 228.6 48.26 90)
 			(effects
 				(font
@@ -5250,6 +5313,15 @@
 				(hide yes)
 			)
 		)
+		(property "MPN" ""
+			(at 44.45 43.18 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "98e1368b-98b7-47cb-a39f-56fddee3042f")
 		)
@@ -5320,6 +5392,15 @@
 		)
 		(property "DIGIKEY" "2019-RN73H2ATTD1002B25CT-ND"
 			(at 101.6 104.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" ""
+			(at 101.6 104.14 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5473,6 +5554,15 @@
 			)
 		)
 		(property "PARTNO" "OPA189ID"
+			(at 101.6 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" ""
 			(at 101.6 85.09 0)
 			(effects
 				(font
@@ -5991,7 +6081,7 @@
 				)
 			)
 		)
-		(property "Value" "~"
+		(property "Value" "EG6100-ND"
 			(at 260.985 139.7 0)
 			(effects
 				(font
@@ -6036,6 +6126,15 @@
 			)
 		)
 		(property "PARTNO" "1004P6T1B4M7RE"
+			(at 260.35 143.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" ""
 			(at 260.35 143.51 0)
 			(effects
 				(font
@@ -6110,7 +6209,7 @@
 				)
 			)
 		)
-		(property "Value" "~"
+		(property "Value" "4x Comparator"
 			(at 182.88 92.0049 0)
 			(effects
 				(font
@@ -6164,6 +6263,15 @@
 			)
 		)
 		(property "PARTNO" "UPC177G2(20)-E2-A"
+			(at 172.72 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" ""
 			(at 172.72 95.25 0)
 			(effects
 				(font
@@ -6362,6 +6470,24 @@
 				(hide yes)
 			)
 		)
+		(property "DIGIKEY" "118-PV36W104C01B00-ND"
+			(at 44.45 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PARTNO" "PV36W104C01B00"
+			(at 44.45 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "a194d48f-a852-49d9-a02e-62683d83568b")
 		)
@@ -6398,7 +6524,7 @@
 				)
 			)
 		)
-		(property "Value" "~"
+		(property "Value" "4x Comparator"
 			(at 152.4 123.7549 0)
 			(effects
 				(font
@@ -6452,6 +6578,15 @@
 			)
 		)
 		(property "PARTNO" "UPC177G2(20)-E2-A"
+			(at 142.24 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" ""
 			(at 142.24 127 0)
 			(effects
 				(font
@@ -6547,7 +6682,7 @@
 				)
 			)
 		)
-		(property "Value" "~"
+		(property "Value" "EG6100-ND"
 			(at 180.975 60.96 0)
 			(effects
 				(font
@@ -6592,6 +6727,15 @@
 			)
 		)
 		(property "PARTNO" "1004P6T1B4M7RE"
+			(at 180.34 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" ""
 			(at 180.34 66.04 0)
 			(effects
 				(font
@@ -6851,6 +6995,15 @@
 				(hide yes)
 			)
 		)
+		(property "MPN" ""
+			(at 166.37 46.99 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "5dae3451-d014-42bc-89c4-489f21c18a8b")
 		)
@@ -6937,6 +7090,15 @@
 				(hide yes)
 			)
 		)
+		(property "MPN" ""
+			(at 205.74 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "b8af8bd3-8eb0-4456-9709-33f237336c7d")
 		)
@@ -7000,6 +7162,15 @@
 		)
 		(property "Description" ""
 			(at 53.34 64.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" ""
+			(at 53.34 64.77 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7105,7 +7276,7 @@
 				)
 			)
 		)
-		(property "Value" "~"
+		(property "Value" "4x Comparator"
 			(at 127 28.5049 0)
 			(effects
 				(font
@@ -7159,6 +7330,15 @@
 			)
 		)
 		(property "PARTNO" "UPC177G2(20)-E2-A"
+			(at 116.84 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" ""
 			(at 116.84 31.75 0)
 			(effects
 				(font
