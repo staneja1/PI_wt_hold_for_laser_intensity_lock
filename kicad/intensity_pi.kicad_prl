@@ -22,11 +22,11 @@
       "keepouts": false,
       "lockedItems": true,
       "otherItems": false,
-      "pads": false,
-      "text": false,
+      "pads": true,
+      "text": true,
       "tracks": true,
       "vias": true,
-      "zones": true
+      "zones": false
     },
     "visible_items": [
       "vias",
