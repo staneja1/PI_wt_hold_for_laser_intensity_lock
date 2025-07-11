@@ -13675,7 +13675,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Capacitor_THT:C_Axial_L3.8mm_D2.6mm_P7.50mm_Horizontal"
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 181.61 86.6648 0)
 			(effects
 				(font
