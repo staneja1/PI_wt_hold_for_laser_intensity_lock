@@ -11710,6 +11710,134 @@
 		)
 	)
 	(symbol
+		(lib_id "Custom_Symbols:DP3T_1")
+		(at 179.07 41.91 0)
+		(unit 2)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "73d889ea-51fe-4f24-b86b-0e6570674053")
+		(property "Reference" "SW5"
+			(at 179.705 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "EG6100-ND"
+			(at 179.705 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Custom_Footprints:Right Angle 3PDT Switch"
+			(at 179.07 41.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 179.07 41.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 179.07 41.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DIGIKEY" "EG6100-ND"
+			(at 179.07 41.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PARTNO" "1004P6T1B4M7RE"
+			(at 179.07 41.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" ""
+			(at 179.07 41.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "9"
+			(uuid "3dbb2938-5216-4913-bf73-d31947969ac0")
+		)
+		(pin "10"
+			(uuid "88d9a754-948a-4f14-8d4a-5c33cf5e9430")
+		)
+		(pin "3"
+			(uuid "4e2c4118-c073-49fc-8fbc-0eab9b533e95")
+		)
+		(pin "5"
+			(uuid "3519661f-606e-40dd-85ec-09686cfece9b")
+		)
+		(pin "12"
+			(uuid "136a3ed7-5231-4cc4-a091-2918afabfc05")
+		)
+		(pin "8"
+			(uuid "61982c79-8b49-4a73-aaa5-35cfbba8945b")
+		)
+		(pin "11"
+			(uuid "072b710f-90a4-47b7-b3a6-76c68a4e631b")
+		)
+		(pin "7"
+			(uuid "7a6d156b-2ec3-489f-ad39-24874fbbdbcb")
+		)
+		(pin "13"
+			(uuid "9145c2b8-5236-43ec-af75-eb1707e37cb9")
+		)
+		(pin "6"
+			(uuid "09bc3f58-7993-4eb2-92f8-2f34bb0cf9ab")
+		)
+		(pin "2"
+			(uuid "3068765d-d0ab-469d-924e-3f45d8d29928")
+		)
+		(pin "4"
+			(uuid "82c0eea1-88fb-4aef-b02d-becc605a78a3")
+		)
+		(pin "1"
+			(uuid "721064ac-796a-4bd9-a8d5-1651e0522f6b")
+		)
+		(instances
+			(project "intensity_pi"
+				(path "/3a3d7bcb-6fa5-41ef-9ea1-6d4ab7c492fd"
+					(reference "SW5")
+					(unit 2)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:R_US")
 		(at 25.4 33.02 180)
 		(unit 1)
@@ -13137,134 +13265,6 @@
 			(project "progress_intensity_pi"
 				(path "/3a3d7bcb-6fa5-41ef-9ea1-6d4ab7c492fd"
 					(reference "#PWR019")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Custom_Symbols:DP3T_1")
-		(at 179.07 41.91 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "9cb4ca76-0456-49ea-b141-ecdd2171ddce")
-		(property "Reference" "SW5"
-			(at 179.705 34.29 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "EG6100-ND"
-			(at 179.705 36.83 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Custom_Footprints:Right Angle 3PDT Switch"
-			(at 179.07 41.91 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 179.07 41.91 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 179.07 41.91 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "DIGIKEY" "EG6100-ND"
-			(at 179.07 41.91 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "PARTNO" "1004P6T1B4M7RE"
-			(at 179.07 41.91 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MPN" ""
-			(at 179.07 41.91 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "9"
-			(uuid "3dbb2938-5216-4913-bf73-d31947969abf")
-		)
-		(pin "10"
-			(uuid "61bb748d-6b6a-4205-bfa3-b9ee5df62630")
-		)
-		(pin "3"
-			(uuid "4e2c4118-c073-49fc-8fbc-0eab9b533e94")
-		)
-		(pin "5"
-			(uuid "3519661f-606e-40dd-85ec-09686cfece9a")
-		)
-		(pin "12"
-			(uuid "043590e0-8c67-4ca7-98e7-6ebb44f86dd9")
-		)
-		(pin "8"
-			(uuid "6226152e-7183-4079-be9e-b143c511c3a3")
-		)
-		(pin "11"
-			(uuid "072b710f-90a4-47b7-b3a6-76c68a4e631a")
-		)
-		(pin "7"
-			(uuid "549de0c4-6db3-4942-9e9a-8ef52389159a")
-		)
-		(pin "13"
-			(uuid "9145c2b8-5236-43ec-af75-eb1707e37cb8")
-		)
-		(pin "6"
-			(uuid "3cac999c-5e08-4c9d-b965-e28984e06219")
-		)
-		(pin "2"
-			(uuid "3e46a854-7bc2-4dc1-a1a6-377e38ee157b")
-		)
-		(pin "4"
-			(uuid "b5009b1c-302a-49c8-aa1a-316b4208f2fb")
-		)
-		(pin "1"
-			(uuid "5a65039e-d9db-4272-994d-7cfdb5064234")
-		)
-		(instances
-			(project "intensity_pi"
-				(path "/3a3d7bcb-6fa5-41ef-9ea1-6d4ab7c492fd"
-					(reference "SW5")
 					(unit 1)
 				)
 			)
