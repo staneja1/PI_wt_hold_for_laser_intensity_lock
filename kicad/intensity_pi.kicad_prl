@@ -6,7 +6,6 @@
     "hidden_netclasses": [],
     "hidden_nets": [
       "GND",
-      "Net-(U10--)",
       "+15V",
       "-15V"
     ],
@@ -18,14 +17,14 @@
       "shapes": 1.0,
       "tracks": 1.0,
       "vias": 1.0,
-      "zones": 0.20000000298023224
+      "zones": 0.25
     },
     "selection_filter": {
       "dimensions": true,
       "footprints": true,
       "graphics": true,
       "keepouts": true,
-      "lockedItems": true,
+      "lockedItems": false,
       "otherItems": true,
       "pads": true,
       "text": true,
