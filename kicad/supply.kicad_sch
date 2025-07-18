@@ -4603,6 +4603,24 @@
 				(hide yes)
 			)
 		)
+		(property "DIGIKEY" "1276-6840-2-ND "
+			(at 190.5 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PARTNO" "CL21B104KCFNNNE"
+			(at 190.5 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "5f16514a-9337-4f9e-9f00-a0c014270a3d")
 		)
@@ -4674,6 +4692,24 @@
 			)
 		)
 		(property "MPN" ""
+			(at 78.74 59.055 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DIGIKEY" "1276-6840-2-ND "
+			(at 78.74 59.055 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PARTNO" "CL21B104KCFNNNE"
 			(at 78.74 59.055 0)
 			(effects
 				(font
@@ -4761,6 +4797,24 @@
 				(hide yes)
 			)
 		)
+		(property "DIGIKEY" "1276-6840-2-ND "
+			(at 105.41 59.055 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PARTNO" "CL21B104KCFNNNE"
+			(at 105.41 59.055 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "4935edbc-8b3d-499d-9e98-cc08730b022d")
 		)
@@ -4840,6 +4894,24 @@
 				(hide yes)
 			)
 		)
+		(property "DIGIKEY" "1276-6840-2-ND "
+			(at 78.74 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PARTNO" "CL21B104KCFNNNE"
+			(at 78.74 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "936c671c-45c2-4aa0-99a7-a76e8d065b1a")
 		)
@@ -4911,6 +4983,24 @@
 			)
 		)
 		(property "MPN" ""
+			(at 118.11 59.055 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DIGIKEY" "1276-6840-2-ND "
+			(at 118.11 59.055 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PARTNO" "CL21B104KCFNNNE"
 			(at 118.11 59.055 0)
 			(effects
 				(font
@@ -5062,6 +5152,24 @@
 				(hide yes)
 			)
 		)
+		(property "DIGIKEY" "1276-6469-2-ND"
+			(at 33.02 83.82 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PARTNO" "CL21B105KAFNNNG"
+			(at 33.02 83.82 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "8c39a38a-76be-407d-8330-0b7b4f9bb265")
 		)
@@ -5133,6 +5241,24 @@
 			)
 		)
 		(property "MPN" ""
+			(at 160.655 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DIGIKEY" "1276-6840-2-ND "
+			(at 160.655 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PARTNO" "CL21B104KCFNNNE"
 			(at 160.655 45.72 0)
 			(effects
 				(font
@@ -5278,6 +5404,24 @@
 			)
 		)
 		(property "MPN" ""
+			(at 52.07 59.055 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DIGIKEY" "1276-6840-2-ND "
+			(at 52.07 59.055 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PARTNO" "CL21B104KCFNNNE"
 			(at 52.07 59.055 0)
 			(effects
 				(font
@@ -5475,6 +5619,24 @@
 			)
 		)
 		(property "MPN" ""
+			(at 160.655 59.055 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DIGIKEY" "1276-6840-2-ND "
+			(at 160.655 59.055 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PARTNO" "CL21B104KCFNNNE"
 			(at 160.655 59.055 0)
 			(effects
 				(font
@@ -5773,6 +5935,24 @@
 				(hide yes)
 			)
 		)
+		(property "DIGIKEY" "1276-6840-2-ND "
+			(at 205.74 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PARTNO" "CL21B104KCFNNNE"
+			(at 205.74 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "f98896ab-f9f8-4d04-af61-cc5c3b33a0c1")
 		)
@@ -5852,6 +6032,24 @@
 				(hide yes)
 			)
 		)
+		(property "DIGIKEY" "1276-6840-2-ND "
+			(at 52.07 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PARTNO" "CL21B104KCFNNNE"
+			(at 52.07 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "aa77e123-18c1-45da-bd89-73ab2eb95049")
 		)
@@ -5920,7 +6118,16 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" ""
+		(property "DIGIKEY" "1276-6469-2-ND"
+			(at 33.02 76.2 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PARTNO" "CL21B105KAFNNNG"
 			(at 33.02 76.2 90)
 			(effects
 				(font
@@ -6008,6 +6215,24 @@
 				(hide yes)
 			)
 		)
+		(property "DIGIKEY" "1276-6840-2-ND "
+			(at 92.075 59.055 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PARTNO" "CL21B104KCFNNNE"
+			(at 92.075 59.055 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "ab9f5046-f6d3-42e7-a212-80188d8f6e28")
 		)
@@ -6087,6 +6312,24 @@
 				(hide yes)
 			)
 		)
+		(property "DIGIKEY" "1276-6840-2-ND "
+			(at 65.405 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PARTNO" "CL21B104KCFNNNE"
+			(at 65.405 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "8fdf55cc-3665-41b5-943e-28bc02a5c9f5")
 		)
@@ -6147,6 +6390,24 @@
 			)
 		)
 		(property "Description" "Generic screw terminal, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 92.71 135.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DIGIKEY" "732-2748-ND"
+			(at 92.71 135.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PARTNO" "691214110003"
 			(at 92.71 135.89 0)
 			(effects
 				(font
@@ -6500,6 +6761,24 @@
 				(hide yes)
 			)
 		)
+		(property "DIGIKEY" "5831-2-2176327-5TR-ND"
+			(at 137.16 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PARTNO" "2-2176327-5"
+			(at 137.16 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "8a6a6e8c-edb0-4e63-9360-61bb6fb41f79")
 		)
@@ -6637,6 +6916,24 @@
 			)
 		)
 		(property "MPN" ""
+			(at 205.74 59.055 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DIGIKEY" "1276-6840-2-ND "
+			(at 205.74 59.055 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PARTNO" "CL21B104KCFNNNE"
 			(at 205.74 59.055 0)
 			(effects
 				(font
@@ -6815,6 +7112,24 @@
 				(hide yes)
 			)
 		)
+		(property "DIGIKEY" "1276-6840-2-ND "
+			(at 65.405 59.055 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PARTNO" "CL21B104KCFNNNE"
+			(at 65.405 59.055 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "1857f63e-341f-4e27-9aec-9fe9b182910c")
 		)
@@ -6886,6 +7201,24 @@
 			)
 		)
 		(property "MPN" ""
+			(at 118.11 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DIGIKEY" "1276-6840-2-ND "
+			(at 118.11 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PARTNO" "CL21B104KCFNNNE"
 			(at 118.11 45.72 0)
 			(effects
 				(font
@@ -7038,6 +7371,24 @@
 				(hide yes)
 			)
 		)
+		(property "DIGIKEY" "1276-6840-2-ND "
+			(at 176.53 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PARTNO" "CL21B104KCFNNNE"
+			(at 176.53 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "bcb2c0b0-2d90-4899-a4d5-533fdda31aff")
 		)
@@ -7109,6 +7460,24 @@
 			)
 		)
 		(property "MPN" ""
+			(at 131.445 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DIGIKEY" "1276-6840-2-ND "
+			(at 131.445 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PARTNO" "CL21B104KCFNNNE"
 			(at 131.445 45.72 0)
 			(effects
 				(font
@@ -7261,6 +7630,24 @@
 				(hide yes)
 			)
 		)
+		(property "DIGIKEY" "RMCF0805FT330RTR-ND"
+			(at 149.86 97.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PARTNO" "RMCF0805FT330R"
+			(at 149.86 97.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "3aa2a666-dd85-453a-b323-09e3f94030be")
 		)
@@ -7332,6 +7719,24 @@
 			)
 		)
 		(property "MPN" ""
+			(at 176.53 59.055 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DIGIKEY" "1276-6840-2-ND "
+			(at 176.53 59.055 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PARTNO" "CL21B104KCFNNNE"
 			(at 176.53 59.055 0)
 			(effects
 				(font
@@ -7476,6 +7881,24 @@
 			)
 		)
 		(property "MPN" ""
+			(at 125.095 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DIGIKEY" "1276-3387-2-ND"
+			(at 125.095 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PARTNO" "CL32B106KBJNNNE"
 			(at 125.095 95.25 0)
 			(effects
 				(font
@@ -7943,6 +8366,24 @@
 				(hide yes)
 			)
 		)
+		(property "DIGIKEY" "1276-6840-2-ND "
+			(at 144.78 59.055 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PARTNO" "CL21B104KCFNNNE"
+			(at 144.78 59.055 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "5b06c1c4-0319-4751-bc99-9ae3c64d9446")
 		)
@@ -8185,6 +8626,24 @@
 				(hide yes)
 			)
 		)
+		(property "DIGIKEY" "1276-6469-2-ND"
+			(at 33.655 99.06 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PARTNO" "CL21B105KAFNNNG"
+			(at 33.655 99.06 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "b6ae63fa-211d-4794-b050-c33aa7023707")
 		)
@@ -8254,6 +8713,24 @@
 			)
 		)
 		(property "MPN" ""
+			(at 33.655 106.68 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DIGIKEY" "1276-6469-2-ND"
+			(at 33.655 106.68 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PARTNO" "CL21B105KAFNNNG"
 			(at 33.655 106.68 90)
 			(effects
 				(font
@@ -8341,6 +8818,24 @@
 				(hide yes)
 			)
 		)
+		(property "DIGIKEY" "1276-6840-2-ND "
+			(at 92.075 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PARTNO" "CL21B104KCFNNNE"
+			(at 92.075 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "6a0e7138-844d-4fc6-994d-07c8ad01a3dc")
 		)
@@ -8412,6 +8907,24 @@
 			)
 		)
 		(property "MPN" ""
+			(at 190.5 59.055 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DIGIKEY" "1276-6840-2-ND "
+			(at 190.5 59.055 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PARTNO" "CL21B104KCFNNNE"
 			(at 190.5 59.055 0)
 			(effects
 				(font
@@ -8924,6 +9437,24 @@
 				(hide yes)
 			)
 		)
+		(property "DIGIKEY" "1276-6840-2-ND "
+			(at 131.445 59.055 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PARTNO" "CL21B104KCFNNNE"
+			(at 131.445 59.055 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "28b0a8a0-0f77-4ab5-91d4-389fc657fcc7")
 		)
@@ -9060,6 +9591,24 @@
 			)
 		)
 		(property "MPN" ""
+			(at 171.45 97.155 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DIGIKEY" "1276-6840-2-ND "
+			(at 171.45 97.155 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PARTNO" "CL21B104KCFNNNE"
 			(at 171.45 97.155 0)
 			(effects
 				(font
@@ -9399,6 +9948,24 @@
 			)
 		)
 		(property "MPN" ""
+			(at 144.78 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DIGIKEY" "1276-6840-2-ND "
+			(at 144.78 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PARTNO" "CL21B104KCFNNNE"
 			(at 144.78 45.72 0)
 			(effects
 				(font

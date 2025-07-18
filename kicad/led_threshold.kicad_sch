@@ -4249,6 +4249,15 @@
 				(hide yes)
 			)
 		)
+		(property "PARTNO" "RN73H2ATTD1002B25"
+			(at 195.58 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "cf7b713a-a697-4bb0-89e0-7507faf37249")
 		)
@@ -4327,6 +4336,15 @@
 			)
 		)
 		(property "MPN" ""
+			(at 74.93 91.44 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PARTNO" "RN73H2ATTD1002B25"
 			(at 74.93 91.44 90)
 			(effects
 				(font
@@ -4703,6 +4721,15 @@
 			)
 		)
 		(property "DIGIKEY" "2019-RN73H2ATTD1002B25CT-ND"
+			(at 184.15 24.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PARTNO" "RN73H2ATTD1002B25"
 			(at 184.15 24.13 0)
 			(effects
 				(font
@@ -5274,7 +5301,7 @@
 				(hide yes)
 			)
 		)
-		(property "DIGIKEY" ""
+		(property "DIGIKEY" "P100KDATR-ND"
 			(at 44.45 43.18 0)
 			(effects
 				(font
@@ -5284,6 +5311,15 @@
 			)
 		)
 		(property "MPN" ""
+			(at 44.45 43.18 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PARTNO" "ERA-6AEB104V"
 			(at 44.45 43.18 90)
 			(effects
 				(font
@@ -5370,6 +5406,15 @@
 			)
 		)
 		(property "MPN" ""
+			(at 101.6 104.14 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PARTNO" "RN73H2ATTD1002B25"
 			(at 101.6 104.14 90)
 			(effects
 				(font
@@ -6376,6 +6421,24 @@
 				(hide yes)
 			)
 		)
+		(property "DIGIKEY" "P16057TR-ND"
+			(at 228.6 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PARTNO" "ERJ-P06F1000V"
+			(at 228.6 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "4c33bc4b-816f-4b13-9d42-dee2f54aa4f9")
 		)
@@ -6955,6 +7018,24 @@
 				(hide yes)
 			)
 		)
+		(property "DIGIKEY" "P16057TR-ND"
+			(at 214.63 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PARTNO" "ERJ-P06F1000V"
+			(at 214.63 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "05c11c54-6819-408a-92d4-e353bf86b3ff")
 		)
@@ -7089,7 +7170,7 @@
 				(hide yes)
 			)
 		)
-		(property "DIGIKEY" ""
+		(property "DIGIKEY" "5831-2-2176327-5TR-ND"
 			(at 166.37 46.99 90)
 			(effects
 				(font
@@ -7098,7 +7179,7 @@
 				(hide yes)
 			)
 		)
-		(property "PARTNO" ""
+		(property "PARTNO" "2-2176327-5"
 			(at 166.37 46.99 90)
 			(effects
 				(font
@@ -7282,6 +7363,24 @@
 			)
 		)
 		(property "MPN" ""
+			(at 53.34 64.77 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DIGIKEY" "1276-6840-2-ND "
+			(at 53.34 64.77 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PARTNO" "CL21B104KCFNNNE"
 			(at 53.34 64.77 90)
 			(effects
 				(font
