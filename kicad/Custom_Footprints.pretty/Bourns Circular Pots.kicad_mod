@@ -116,6 +116,19 @@
 		(layer "F.SilkS")
 		(uuid "fb0a32f3-145d-4ffa-ae1f-545fa4b12fea")
 	)
+	(fp_text user "CW Rotation of Dial DECREASES resistance bewteen pins 1,2"
+		(at -22.2 -7.4 0)
+		(unlocked yes)
+		(layer "Cmts.User")
+		(uuid "79005daa-f96b-49a9-8304-81de251df779")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify left bottom)
+		)
+	)
 	(fp_text user "${REFERENCE}"
 		(at 0 7 0)
 		(unlocked yes)
@@ -129,12 +142,12 @@
 		)
 	)
 	(pad "1" thru_hole circle
-		(at -5.08 0)
+		(at 0 0)
 		(size 3.2 3.2)
 		(drill 2.08)
 		(layers "*.Cu" "*.Mask")
 		(remove_unused_layers no)
-		(uuid "4771a587-cd0a-45aa-96a3-d2807a64e5da")
+		(uuid "04de4010-d9cd-4d0a-8239-b765618c530c")
 	)
 	(pad "2" thru_hole circle
 		(at -10.16 0)
@@ -145,12 +158,12 @@
 		(uuid "78c37887-6ca2-4325-a4a3-0b16bc2258fc")
 	)
 	(pad "3" thru_hole circle
-		(at 0 0)
+		(at -5.08 0)
 		(size 3.2 3.2)
 		(drill 2.08)
 		(layers "*.Cu" "*.Mask")
 		(remove_unused_layers no)
-		(uuid "04de4010-d9cd-4d0a-8239-b765618c530c")
+		(uuid "4771a587-cd0a-45aa-96a3-d2807a64e5da")
 	)
 	(zone
 		(net 0)
