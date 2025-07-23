@@ -185,4 +185,15 @@
 		)
 	)
 	(embedded_fonts no)
+	(model "${KIPRJMOD}/3590p-2.stp"
+		(offset
+			(xyz 6.75 0 11.5)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -90 -180 90)
+		)
+	)
 )

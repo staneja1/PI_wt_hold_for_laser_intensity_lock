@@ -122,4 +122,15 @@
 		(uuid "5b2fffc8-b7ff-4a21-a571-cc31ec68b386")
 	)
 	(embedded_fonts no)
+	(model "${KIPRJMOD}/141_100SPxT2B4M6xE.stp"
+		(offset
+			(xyz 3.75 0 3.4)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -90 -180 -90)
+		)
+	)
 )
