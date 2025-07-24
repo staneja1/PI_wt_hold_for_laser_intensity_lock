@@ -4603,7 +4603,7 @@
 				(hide yes)
 			)
 		)
-		(property "DIGIKEY" "1276-6840-2-ND "
+		(property "DIGIKEY" "1276-6840-1-ND "
 			(at 190.5 45.72 0)
 			(effects
 				(font
@@ -4700,7 +4700,7 @@
 				(hide yes)
 			)
 		)
-		(property "DIGIKEY" "1276-6840-2-ND "
+		(property "DIGIKEY" "1276-6840-1-ND "
 			(at 78.74 59.055 0)
 			(effects
 				(font
@@ -4797,7 +4797,7 @@
 				(hide yes)
 			)
 		)
-		(property "DIGIKEY" "1276-6840-2-ND "
+		(property "DIGIKEY" "1276-6840-1-ND "
 			(at 105.41 59.055 0)
 			(effects
 				(font
@@ -4894,7 +4894,7 @@
 				(hide yes)
 			)
 		)
-		(property "DIGIKEY" "1276-6840-2-ND "
+		(property "DIGIKEY" "1276-6840-1-ND "
 			(at 78.74 45.72 0)
 			(effects
 				(font
@@ -4991,7 +4991,7 @@
 				(hide yes)
 			)
 		)
-		(property "DIGIKEY" "1276-6840-2-ND "
+		(property "DIGIKEY" "1276-6840-1-ND "
 			(at 118.11 59.055 0)
 			(effects
 				(font
@@ -5152,7 +5152,7 @@
 				(hide yes)
 			)
 		)
-		(property "DIGIKEY" "1276-6469-2-ND"
+		(property "DIGIKEY" "1276-6469-1-ND"
 			(at 33.02 83.82 90)
 			(effects
 				(font
@@ -5249,7 +5249,7 @@
 				(hide yes)
 			)
 		)
-		(property "DIGIKEY" "1276-6840-2-ND "
+		(property "DIGIKEY" "1276-6840-1-ND "
 			(at 160.655 45.72 0)
 			(effects
 				(font
@@ -5412,7 +5412,7 @@
 				(hide yes)
 			)
 		)
-		(property "DIGIKEY" "1276-6840-2-ND "
+		(property "DIGIKEY" "1276-6840-1-ND "
 			(at 52.07 59.055 0)
 			(effects
 				(font
@@ -5627,7 +5627,7 @@
 				(hide yes)
 			)
 		)
-		(property "DIGIKEY" "1276-6840-2-ND "
+		(property "DIGIKEY" "1276-6840-1-ND "
 			(at 160.655 59.055 0)
 			(effects
 				(font
@@ -5935,7 +5935,7 @@
 				(hide yes)
 			)
 		)
-		(property "DIGIKEY" "1276-6840-2-ND "
+		(property "DIGIKEY" "1276-6840-1-ND "
 			(at 205.74 45.72 0)
 			(effects
 				(font
@@ -6032,7 +6032,7 @@
 				(hide yes)
 			)
 		)
-		(property "DIGIKEY" "1276-6840-2-ND "
+		(property "DIGIKEY" "1276-6840-1-ND "
 			(at 52.07 45.72 0)
 			(effects
 				(font
@@ -6118,7 +6118,7 @@
 				(hide yes)
 			)
 		)
-		(property "DIGIKEY" "1276-6469-2-ND"
+		(property "DIGIKEY" "1276-6469-1-ND"
 			(at 33.02 76.2 90)
 			(effects
 				(font
@@ -6215,7 +6215,7 @@
 				(hide yes)
 			)
 		)
-		(property "DIGIKEY" "1276-6840-2-ND "
+		(property "DIGIKEY" "1276-6840-1-ND "
 			(at 92.075 59.055 0)
 			(effects
 				(font
@@ -6312,7 +6312,7 @@
 				(hide yes)
 			)
 		)
-		(property "DIGIKEY" "1276-6840-2-ND "
+		(property "DIGIKEY" "1276-6840-1-ND "
 			(at 65.405 45.72 0)
 			(effects
 				(font
@@ -6761,7 +6761,7 @@
 				(hide yes)
 			)
 		)
-		(property "DIGIKEY" "5831-2-2176327-5TR-ND"
+		(property "DIGIKEY" "RG20P1.0KBCT-ND"
 			(at 137.16 107.95 0)
 			(effects
 				(font
@@ -6770,7 +6770,7 @@
 				(hide yes)
 			)
 		)
-		(property "PARTNO" "2-2176327-5"
+		(property "PARTNO" "RG2012P-102-B-T5"
 			(at 137.16 107.95 0)
 			(effects
 				(font
@@ -6924,7 +6924,7 @@
 				(hide yes)
 			)
 		)
-		(property "DIGIKEY" "1276-6840-2-ND "
+		(property "DIGIKEY" "1276-6840-1-ND "
 			(at 205.74 59.055 0)
 			(effects
 				(font
@@ -7112,7 +7112,7 @@
 				(hide yes)
 			)
 		)
-		(property "DIGIKEY" "1276-6840-2-ND "
+		(property "DIGIKEY" "1276-6840-1-ND "
 			(at 65.405 59.055 0)
 			(effects
 				(font
@@ -7209,7 +7209,7 @@
 				(hide yes)
 			)
 		)
-		(property "DIGIKEY" "1276-6840-2-ND "
+		(property "DIGIKEY" "1276-6840-1-ND "
 			(at 118.11 45.72 0)
 			(effects
 				(font
@@ -7371,7 +7371,7 @@
 				(hide yes)
 			)
 		)
-		(property "DIGIKEY" "1276-6840-2-ND "
+		(property "DIGIKEY" "1276-6840-1-ND "
 			(at 176.53 45.72 0)
 			(effects
 				(font
@@ -7468,7 +7468,7 @@
 				(hide yes)
 			)
 		)
-		(property "DIGIKEY" "1276-6840-2-ND "
+		(property "DIGIKEY" "1276-6840-1-ND "
 			(at 131.445 45.72 0)
 			(effects
 				(font
@@ -7630,7 +7630,7 @@
 				(hide yes)
 			)
 		)
-		(property "DIGIKEY" "RMCF0805FT330RTR-ND"
+		(property "DIGIKEY" "RMCF0805FT330RCT-ND"
 			(at 149.86 97.79 0)
 			(effects
 				(font
@@ -7727,7 +7727,7 @@
 				(hide yes)
 			)
 		)
-		(property "DIGIKEY" "1276-6840-2-ND "
+		(property "DIGIKEY" "1276-6840-1-ND "
 			(at 176.53 59.055 0)
 			(effects
 				(font
@@ -7889,7 +7889,7 @@
 				(hide yes)
 			)
 		)
-		(property "DIGIKEY" "1276-3387-2-ND"
+		(property "DIGIKEY" "1276-3387-1-ND"
 			(at 125.095 95.25 0)
 			(effects
 				(font
@@ -8074,7 +8074,7 @@
 				(hide yes)
 			)
 		)
-		(property "DIGIKEY" "MC7815BDTRKG"
+		(property "DIGIKEY" "MC7815BDTRKGOSCT-ND"
 			(at 109.22 156.21 0)
 			(effects
 				(font
@@ -8366,7 +8366,7 @@
 				(hide yes)
 			)
 		)
-		(property "DIGIKEY" "1276-6840-2-ND "
+		(property "DIGIKEY" "1276-6840-1-ND "
 			(at 144.78 59.055 0)
 			(effects
 				(font
@@ -8626,7 +8626,7 @@
 				(hide yes)
 			)
 		)
-		(property "DIGIKEY" "1276-6469-2-ND"
+		(property "DIGIKEY" "1276-6469-1-ND"
 			(at 33.655 99.06 90)
 			(effects
 				(font
@@ -8721,7 +8721,7 @@
 				(hide yes)
 			)
 		)
-		(property "DIGIKEY" "1276-6469-2-ND"
+		(property "DIGIKEY" "1276-6469-1-ND"
 			(at 33.655 106.68 90)
 			(effects
 				(font
@@ -8818,7 +8818,7 @@
 				(hide yes)
 			)
 		)
-		(property "DIGIKEY" "1276-6840-2-ND "
+		(property "DIGIKEY" "1276-6840-1-ND "
 			(at 92.075 45.72 0)
 			(effects
 				(font
@@ -8915,7 +8915,7 @@
 				(hide yes)
 			)
 		)
-		(property "DIGIKEY" "1276-6840-2-ND "
+		(property "DIGIKEY" "1276-6840-1-ND "
 			(at 190.5 59.055 0)
 			(effects
 				(font
@@ -9263,7 +9263,7 @@
 				(hide yes)
 			)
 		)
-		(property "DIGIKEY" "MC7915ACD2TG"
+		(property "DIGIKEY" "MC7915ACD2TGOS-ND"
 			(at 109.22 181.61 0)
 			(effects
 				(font
@@ -9437,7 +9437,7 @@
 				(hide yes)
 			)
 		)
-		(property "DIGIKEY" "1276-6840-2-ND "
+		(property "DIGIKEY" "1276-6840-1-ND "
 			(at 131.445 59.055 0)
 			(effects
 				(font
@@ -9599,7 +9599,7 @@
 				(hide yes)
 			)
 		)
-		(property "DIGIKEY" "1276-6840-2-ND "
+		(property "DIGIKEY" "1276-6840-1-ND "
 			(at 171.45 97.155 0)
 			(effects
 				(font
@@ -9687,7 +9687,7 @@
 				(hide yes)
 			)
 		)
-		(property "DIGIKEY" "1189-35PJV100M6.3X8TR-ND"
+		(property "DIGIKEY" "1189-35PJV100M6.3X8CT-ND"
 			(at 86.36 162.56 0)
 			(effects
 				(font
@@ -9850,7 +9850,7 @@
 				(hide yes)
 			)
 		)
-		(property "DIGIKEY" "1189-35PJV100M6.3X8TR-ND"
+		(property "DIGIKEY" "1189-35PJV100M6.3X8CT-ND"
 			(at 86.36 175.26 0)
 			(effects
 				(font
@@ -9956,7 +9956,7 @@
 				(hide yes)
 			)
 		)
-		(property "DIGIKEY" "1276-6840-2-ND "
+		(property "DIGIKEY" "1276-6840-1-ND "
 			(at 144.78 45.72 0)
 			(effects
 				(font

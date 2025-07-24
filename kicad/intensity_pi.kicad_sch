@@ -7036,7 +7036,7 @@
 				(hide yes)
 			)
 		)
-		(property "DIGIKEY" "296-INA849DRCT-ND‎ "
+		(property "DIGIKEY" "296-INA849DRCT-ND"
 			(at 59.69 36.83 0)
 			(effects
 				(font
@@ -7814,7 +7814,7 @@
 				(hide yes)
 			)
 		)
-		(property "DIGIKEY" "4004-SSTPAD5SOT-233LROHSTR-ND"
+		(property "DIGIKEY" "4004-SSTPAD5SOT-233LROHSCT-ND"
 			(at 195.58 71.12 0)
 			(effects
 				(font
@@ -7917,7 +7917,7 @@
 				(hide yes)
 			)
 		)
-		(property "DIGIKEY" "1276-6840-2-ND "
+		(property "DIGIKEY" "1276-6840-1-ND "
 			(at 62.23 142.24 90)
 			(effects
 				(font
@@ -8224,7 +8224,7 @@
 				(hide yes)
 			)
 		)
-		(property "DIGIKEY" "541-CRCW080550R0FKTATR-ND"
+		(property "DIGIKEY" "541-CRCW080550R0FKTACT-ND"
 			(at 267.97 80.01 90)
 			(effects
 				(font
@@ -8405,7 +8405,7 @@
 				(hide yes)
 			)
 		)
-		(property "DIGIKEY" "118-CRT0805-BY-5001EASTR-ND"
+		(property "DIGIKEY" "118-CRT0805-BY-5001EASCT-ND"
 			(at 151.13 142.24 0)
 			(effects
 				(font
@@ -8722,7 +8722,7 @@
 				(hide yes)
 			)
 		)
-		(property "DIGIKEY" "P100KDATR-ND"
+		(property "DIGIKEY" "P100KDACT-ND"
 			(at 181.61 160.02 0)
 			(effects
 				(font
@@ -8979,7 +8979,7 @@
 				(hide yes)
 			)
 		)
-		(property "DIGIKEY" "5831-2-2176327-5TR-ND"
+		(property "DIGIKEY" "RG20P1.0KBCT-ND"
 			(at 191.77 87.63 0)
 			(effects
 				(font
@@ -8997,7 +8997,7 @@
 				(hide yes)
 			)
 		)
-		(property "PARTNO" "2-2176327-5"
+		(property "PARTNO" "RG2012P-102-B-T5"
 			(at 191.77 87.63 90)
 			(effects
 				(font
@@ -9083,7 +9083,7 @@
 				(hide yes)
 			)
 		)
-		(property "DIGIKEY" "399-C0805C103K5RACTUTR-ND"
+		(property "DIGIKEY" "399-C0805C103K5RACTUCT-ND"
 			(at 180.34 52.07 90)
 			(effects
 				(font
@@ -9456,7 +9456,7 @@
 				(hide yes)
 			)
 		)
-		(property "DIGIKEY" "4004-SSTPAD5SOT-233LROHSTR-ND"
+		(property "DIGIKEY" "4004-SSTPAD5SOT-233LROHSCT-ND"
 			(at 250.19 132.08 0)
 			(effects
 				(font
@@ -9683,7 +9683,7 @@
 				(hide yes)
 			)
 		)
-		(property "DIGIKEY" "A126334TR-ND"
+		(property "DIGIKEY" "A126334CT-ND"
 			(at 118.11 110.49 0)
 			(effects
 				(font
@@ -9786,7 +9786,7 @@
 				(hide yes)
 			)
 		)
-		(property "DIGIKEY" "1276-6840-2-ND "
+		(property "DIGIKEY" "1276-6840-1-ND "
 			(at 37.465 123.19 90)
 			(effects
 				(font
@@ -9939,7 +9939,7 @@
 				(hide yes)
 			)
 		)
-		(property "DIGIKEY" "5831-2-2176327-5TR-ND"
+		(property "DIGIKEY" "RG20P1.0KBCT-ND"
 			(at 87.63 125.73 0)
 			(effects
 				(font
@@ -9957,7 +9957,7 @@
 				(hide yes)
 			)
 		)
-		(property "PARTNO" "2-2176327-5"
+		(property "PARTNO" "RG2012P-102-B-T5"
 			(at 87.63 125.73 0)
 			(effects
 				(font
@@ -10418,7 +10418,7 @@
 				(hide yes)
 			)
 		)
-		(property "DIGIKEY" "296-INA849DRCT-ND‎ "
+		(property "DIGIKEY" "296-INA849DRCT-ND"
 			(at 60.96 67.31 0)
 			(effects
 				(font
@@ -10663,7 +10663,7 @@
 				(hide yes)
 			)
 		)
-		(property "DIGIKEY" "CKN10546TR-ND"
+		(property "DIGIKEY" "CKN10546CT-ND"
 			(at 237.49 132.08 90)
 			(effects
 				(font
@@ -11011,7 +11011,7 @@
 				(hide yes)
 			)
 		)
-		(property "DIGIKEY" "541-CRCW080550R0FKTATR-ND"
+		(property "DIGIKEY" "541-CRCW080550R0FKTACT-ND"
 			(at 162.56 181.61 90)
 			(effects
 				(font
@@ -12402,7 +12402,7 @@
 				(hide yes)
 			)
 		)
-		(property "DIGIKEY" "CKN10546TR-ND"
+		(property "DIGIKEY" "CKN10546CT-ND"
 			(at 185.42 71.12 90)
 			(effects
 				(font
@@ -12872,7 +12872,7 @@
 				(hide yes)
 			)
 		)
-		(property "DIGIKEY" "5831-2-2176327-5TR-ND"
+		(property "DIGIKEY" "RG20P1.0KBCT-ND"
 			(at 59.69 170.18 0)
 			(effects
 				(font
@@ -12890,7 +12890,7 @@
 				(hide yes)
 			)
 		)
-		(property "PARTNO" "2-2176327-5"
+		(property "PARTNO" "RG2012P-102-B-T5"
 			(at 59.69 170.18 90)
 			(effects
 				(font
@@ -13734,7 +13734,7 @@
 				(hide yes)
 			)
 		)
-		(property "DIGIKEY" "399-C0805C101J5GACTUTR-ND"
+		(property "DIGIKEY" "399-C0805C101J5GACTUCT-ND"
 			(at 238.125 114.3 90)
 			(effects
 				(font
@@ -14444,7 +14444,7 @@
 				(hide yes)
 			)
 		)
-		(property "DIGIKEY" "YAG3766CT-ND"
+		(property "DIGIKEY" "CR0805-FX-1800ELFCT-ND"
 			(at 33.02 177.8 90)
 			(effects
 				(font
@@ -14453,7 +14453,7 @@
 				(hide yes)
 			)
 		)
-		(property "PARTNO" "AC0805JR-071ML"
+		(property "PARTNO" "CR0805-FX-1800ELF"
 			(at 33.02 177.8 90)
 			(effects
 				(font
@@ -14641,7 +14641,7 @@
 				(hide yes)
 			)
 		)
-		(property "DIGIKEY" "311-3.30KCRTR-ND"
+		(property "DIGIKEY" "311-3.30KCRCT-ND"
 			(at 252.73 93.98 0)
 			(effects
 				(font
@@ -14869,7 +14869,7 @@
 				(hide yes)
 			)
 		)
-		(property "DIGIKEY" "5831-2-2176327-5TR-ND"
+		(property "DIGIKEY" "RG20P1.0KBCT-ND"
 			(at 25.4 73.66 0)
 			(effects
 				(font
@@ -14887,7 +14887,7 @@
 				(hide yes)
 			)
 		)
-		(property "PARTNO" "2-2176327-5"
+		(property "PARTNO" "RG2012P-102-B-T5"
 			(at 25.4 73.66 0)
 			(effects
 				(font
@@ -14965,7 +14965,7 @@
 				(hide yes)
 			)
 		)
-		(property "DIGIKEY" "311-3.30KCRTR-ND"
+		(property "DIGIKEY" "311-3.30KCRCT-ND"
 			(at 152.4 189.23 0)
 			(effects
 				(font
@@ -15358,7 +15358,7 @@
 				(hide yes)
 			)
 		)
-		(property "DIGIKEY" "5831-2-2176327-5TR-ND"
+		(property "DIGIKEY" "RG20P1.0KBCT-ND"
 			(at 25.4 43.18 0)
 			(effects
 				(font
@@ -15376,7 +15376,7 @@
 				(hide yes)
 			)
 		)
-		(property "PARTNO" "2-2176327-5"
+		(property "PARTNO" "RG2012P-102-B-T5"
 			(at 25.4 43.18 0)
 			(effects
 				(font
@@ -15681,7 +15681,7 @@
 				(hide yes)
 			)
 		)
-		(property "DIGIKEY" "5831-2-2176327-5TR-ND"
+		(property "DIGIKEY" "RG20P1.0KBCT-ND"
 			(at 114.3 179.07 0)
 			(effects
 				(font
@@ -15699,7 +15699,7 @@
 				(hide yes)
 			)
 		)
-		(property "PARTNO" "2-2176327-5"
+		(property "PARTNO" "RG2012P-102-B-T5"
 			(at 114.3 179.07 90)
 			(effects
 				(font
@@ -16433,7 +16433,7 @@
 				(hide yes)
 			)
 		)
-		(property "DIGIKEY" "A126334TR-ND"
+		(property "DIGIKEY" "A126334CT-ND"
 			(at 118.11 118.11 0)
 			(effects
 				(font

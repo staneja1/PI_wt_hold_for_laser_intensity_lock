@@ -4421,7 +4421,7 @@
 				(hide yes)
 			)
 		)
-		(property "DIGIKEY" "UPC177G2(20)-E2-A"
+		(property "DIGIKEY" "559-UPC177G2(20)-E2-ACT-ND"
 			(at 172.72 97.79 0)
 			(effects
 				(font
@@ -4874,7 +4874,7 @@
 				(hide yes)
 			)
 		)
-		(property "DIGIKEY" "2N7002BK,215"
+		(property "DIGIKEY" "1727-4789-1-ND"
 			(at 228.6 48.26 90)
 			(effects
 				(font
@@ -5429,7 +5429,7 @@
 				(hide yes)
 			)
 		)
-		(property "DIGIKEY" "P100KDATR-ND"
+		(property "DIGIKEY" "P100KDACT-ND"
 			(at 44.45 43.18 0)
 			(effects
 				(font
@@ -6389,7 +6389,7 @@
 				(hide yes)
 			)
 		)
-		(property "DIGIKEY" "UPC177G2(20)-E2-A"
+		(property "DIGIKEY" "559-UPC177G2(20)-E2-ACT-ND"
 			(at 129.54 60.96 0)
 			(effects
 				(font
@@ -6549,7 +6549,7 @@
 				(hide yes)
 			)
 		)
-		(property "DIGIKEY" "P16057TR-ND"
+		(property "DIGIKEY" "P16057CT-ND"
 			(at 228.6 38.1 0)
 			(effects
 				(font
@@ -6792,7 +6792,7 @@
 				(hide yes)
 			)
 		)
-		(property "DIGIKEY" "UPC177G2(20)-E2-A"
+		(property "DIGIKEY" "559-UPC177G2(20)-E2-ACT-ND"
 			(at 116.84 31.75 0)
 			(effects
 				(font
@@ -7018,7 +7018,7 @@
 				(hide yes)
 			)
 		)
-		(property "DIGIKEY" "P16057TR-ND"
+		(property "DIGIKEY" "P16057CT-ND"
 			(at 214.63 92.71 0)
 			(effects
 				(font
@@ -7170,7 +7170,7 @@
 				(hide yes)
 			)
 		)
-		(property "DIGIKEY" "5831-2-2176327-5TR-ND"
+		(property "DIGIKEY" "RG20P1.0KBCT-ND"
 			(at 166.37 46.99 90)
 			(effects
 				(font
@@ -7179,7 +7179,7 @@
 				(hide yes)
 			)
 		)
-		(property "PARTNO" "2-2176327-5"
+		(property "PARTNO" "RG2012P-102-B-T5"
 			(at 166.37 46.99 90)
 			(effects
 				(font
@@ -7265,7 +7265,7 @@
 				(hide yes)
 			)
 		)
-		(property "DIGIKEY" "160-2033-2-ND"
+		(property "DIGIKEY" "160-2033-1-ND"
 			(at 205.74 66.04 0)
 			(effects
 				(font
@@ -7371,7 +7371,7 @@
 				(hide yes)
 			)
 		)
-		(property "DIGIKEY" "1276-6840-2-ND "
+		(property "DIGIKEY" "1276-6840-1-ND "
 			(at 53.34 64.77 90)
 			(effects
 				(font
@@ -7522,7 +7522,7 @@
 				(hide yes)
 			)
 		)
-		(property "DIGIKEY" "UPC177G2(20)-E2-A"
+		(property "DIGIKEY" "559-UPC177G2(20)-E2-ACT-ND"
 			(at 142.24 127 0)
 			(effects
 				(font
@@ -7749,7 +7749,7 @@
 				(hide yes)
 			)
 		)
-		(property "DIGIKEY" "2N7002BK,215"
+		(property "DIGIKEY" "1727-4789-1-ND"
 			(at 214.63 82.55 90)
 			(effects
 				(font
