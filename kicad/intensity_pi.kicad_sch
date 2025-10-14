@@ -1072,6 +1072,203 @@
 			)
 			(embedded_fonts no)
 		)
+		(symbol "D_1"
+			(pin_numbers
+				(hide yes)
+			)
+			(pin_names
+				(offset 1.016)
+				(hide yes)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "D1"
+				(at -1.2701 2.54 90)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+			(property "Value" "D"
+				(at 1.2699 2.54 90)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+			(property "Footprint" "Package_TO_SOT_SMD:TSOT-23"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "~"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "Diode"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Sim.Device" "D"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Sim.Pins" "1=K 2=A"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "DIGIKEY" "4004-SSTPAD5SOT-233LROHSCT-ND"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "PARTNO" "SSTPAD5 SOT-23 3L ROHS"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "MPN" ""
+				(at 0 0 90)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "diode"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_fp_filters" "TO-???* *_Diode_* *SingleDiode* D_*"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "D_1_0_1"
+				(polyline
+					(pts
+						(xy -1.27 1.27) (xy -1.27 -1.27)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 1.27 1.27) (xy 1.27 -1.27) (xy -1.27 0) (xy 1.27 1.27)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 1.27 0) (xy -1.27 0)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "D_1_1_1"
+				(pin passive line
+					(at -3.81 0 0)
+					(length 2.54)
+					(name "K"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 3.81 0 180)
+					(length 2.54)
+					(name "A"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
 		(symbol "Device:C"
 			(pin_numbers
 				(hide yes)
@@ -1222,8 +1419,8 @@
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
-			(property "Reference" "D"
-				(at 0 2.54 0)
+			(property "Reference" "D2"
+				(at 0 -6.35 0)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -1231,14 +1428,14 @@
 				)
 			)
 			(property "Value" "D"
-				(at 0 -2.54 0)
+				(at 0 -3.81 0)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
 				)
 			)
-			(property "Footprint" ""
+			(property "Footprint" "Package_TO_SOT_SMD:TSOT-23"
 				(at 0 0 0)
 				(effects
 					(font
@@ -1275,6 +1472,33 @@
 				)
 			)
 			(property "Sim.Pins" "1=K 2=A"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "DIGIKEY" "4004-SSTPAD5SOT-233LROHSCT-ND"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "PARTNO" "SSTPAD5 SOT-23 3L ROHS"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "MPN" ""
 				(at 0 0 0)
 				(effects
 					(font
@@ -1368,7 +1592,7 @@
 							)
 						)
 					)
-					(number "2"
+					(number "3"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -4019,10 +4243,10 @@
 		(uuid "5a295ffa-6a8f-4e13-9b50-25e1a928d20e")
 	)
 	(junction
-		(at 191.77 71.12)
+		(at 25.4 29.21)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "6d94c70c-783f-4dce-8aef-83d06ff2122f")
+		(uuid "5f96f31a-97a7-46a7-a562-aad7dc64caed")
 	)
 	(junction
 		(at 71.755 36.83)
@@ -4065,12 +4289,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "7b206a6f-7d16-49af-83f6-d49624256f52")
-	)
-	(junction
-		(at 25.4 29.21)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "8a80fab9-4e41-46d2-bc0b-a93f4d2eed3e")
 	)
 	(junction
 		(at 200.66 58.42)
@@ -4382,6 +4600,16 @@
 	)
 	(wire
 		(pts
+			(xy 25.4 29.21) (xy 39.37 29.21)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0957d925-9bfb-483d-88f5-af06bad1799c")
+	)
+	(wire
+		(pts
 			(xy 219.71 91.44) (xy 219.71 104.14)
 		)
 		(stroke
@@ -4522,6 +4750,16 @@
 	)
 	(wire
 		(pts
+			(xy 35.56 39.37) (xy 35.56 31.75)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "16e548af-1a7d-49c2-8e74-ba8e289e09c2")
+	)
+	(wire
+		(pts
 			(xy 72.39 144.78) (xy 72.39 135.89)
 		)
 		(stroke
@@ -4622,16 +4860,6 @@
 	)
 	(wire
 		(pts
-			(xy 191.77 71.12) (xy 194.31 71.12)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "1ee6cf6b-9501-4a6b-b85c-5d5f3fe33299")
-	)
-	(wire
-		(pts
 			(xy 59.69 173.99) (xy 59.69 177.8)
 		)
 		(stroke
@@ -4679,6 +4907,16 @@
 			(type default)
 		)
 		(uuid "2207f0a4-35f8-46be-b92f-2c7210a62e40")
+	)
+	(wire
+		(pts
+			(xy 43.18 59.69) (xy 43.18 62.23)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2249cfe9-7538-42de-9c87-fb10a90cdea7")
 	)
 	(wire
 		(pts
@@ -4732,16 +4970,6 @@
 	)
 	(wire
 		(pts
-			(xy 35.56 41.91) (xy 49.53 41.91)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "29a995a0-580f-4879-9e51-02b6acf65be9")
-	)
-	(wire
-		(pts
 			(xy 194.945 41.91) (xy 200.66 41.91)
 		)
 		(stroke
@@ -4749,16 +4977,6 @@
 			(type default)
 		)
 		(uuid "2aa6e75c-b16a-4d96-9617-0fc621d0bff6")
-	)
-	(wire
-		(pts
-			(xy 35.56 41.91) (xy 35.56 39.37)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "2b414fad-dee1-4ef3-8c76-bf48f972c7d6")
 	)
 	(wire
 		(pts
@@ -4902,6 +5120,16 @@
 	)
 	(wire
 		(pts
+			(xy 39.37 29.21) (xy 39.37 41.91)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3945e2e3-0601-445f-8a85-a427a4285ea0")
+	)
+	(wire
+		(pts
 			(xy 118.11 121.92) (xy 118.11 123.19)
 		)
 		(stroke
@@ -4929,16 +5157,6 @@
 			(type default)
 		)
 		(uuid "3f434c4e-feab-4733-a39b-45c92a5d916c")
-	)
-	(wire
-		(pts
-			(xy 45.72 29.21) (xy 45.72 31.75)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "401501d9-758f-42e5-9780-8af6c4c7c91e")
 	)
 	(wire
 		(pts
@@ -5059,6 +5277,16 @@
 			(type default)
 		)
 		(uuid "45150836-74a9-480f-90b9-4ede3175af0e")
+	)
+	(wire
+		(pts
+			(xy 35.56 31.75) (xy 49.53 31.75)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4691c98a-0a34-4521-82d1-e8a6b44f6925")
 	)
 	(wire
 		(pts
@@ -5422,16 +5650,6 @@
 	)
 	(wire
 		(pts
-			(xy 35.56 62.23) (xy 50.8 62.23)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "6cc7128d-b913-4103-a5af-5bf5dd6716a8")
-	)
-	(wire
-		(pts
 			(xy 22.86 130.81) (xy 19.05 130.81)
 		)
 		(stroke
@@ -5479,16 +5697,6 @@
 			(type default)
 		)
 		(uuid "73c817a4-7ec2-42db-a3da-8be9fc4a8110")
-	)
-	(wire
-		(pts
-			(xy 39.37 72.39) (xy 50.8 72.39)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "752b89e5-7ff4-4c41-aac3-49dcfb785407")
 	)
 	(wire
 		(pts
@@ -5552,6 +5760,16 @@
 	)
 	(wire
 		(pts
+			(xy 35.56 69.85) (xy 35.56 72.39)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7e37d426-200b-4a23-aab5-566ca3023958")
+	)
+	(wire
+		(pts
 			(xy 116.84 196.85) (xy 116.84 184.15)
 		)
 		(stroke
@@ -5559,16 +5777,6 @@
 			(type default)
 		)
 		(uuid "80c1466c-c726-414f-9865-dba819812e3f")
-	)
-	(wire
-		(pts
-			(xy 25.4 29.21) (xy 45.72 29.21)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "81609e56-2ce0-4b74-bfb0-4a4c71895c14")
 	)
 	(wire
 		(pts
@@ -5592,6 +5800,16 @@
 	)
 	(wire
 		(pts
+			(xy 39.37 41.91) (xy 49.53 41.91)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "826efb4d-f829-451a-80b1-5bffa9c18f47")
+	)
+	(wire
+		(pts
 			(xy 132.08 26.67) (xy 132.08 30.48)
 		)
 		(stroke
@@ -5609,16 +5827,6 @@
 			(type default)
 		)
 		(uuid "87228aeb-824d-414f-b0b5-ba92aa2d588f")
-	)
-	(wire
-		(pts
-			(xy 35.56 69.85) (xy 35.56 62.23)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "87a7dce1-5971-445d-b5d0-66ef896165de")
 	)
 	(wire
 		(pts
@@ -5669,16 +5877,6 @@
 			(type default)
 		)
 		(uuid "8b1c5aac-4791-46ff-a5ec-718eafd908b7")
-	)
-	(wire
-		(pts
-			(xy 45.72 31.75) (xy 49.53 31.75)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "8b507c5b-0eed-484f-8365-cb997680af78")
 	)
 	(wire
 		(pts
@@ -5889,6 +6087,16 @@
 			(type default)
 		)
 		(uuid "9fc3e9f5-47d7-42e5-8ff9-e34424424433")
+	)
+	(wire
+		(pts
+			(xy 43.18 62.23) (xy 50.8 62.23)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a1f30913-0978-434b-81ac-211531cac625")
 	)
 	(wire
 		(pts
@@ -6392,6 +6600,16 @@
 	)
 	(wire
 		(pts
+			(xy 35.56 72.39) (xy 50.8 72.39)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e1d6f72c-563f-4803-9306-a34a022e2582")
+	)
+	(wire
+		(pts
 			(xy 142.24 87.63) (xy 147.32 87.63)
 		)
 		(stroke
@@ -6452,7 +6670,7 @@
 	)
 	(wire
 		(pts
-			(xy 25.4 59.69) (xy 39.37 59.69)
+			(xy 25.4 59.69) (xy 43.18 59.69)
 		)
 		(stroke
 			(width 0)
@@ -6609,16 +6827,6 @@
 			(type default)
 		)
 		(uuid "f5f7ed6a-3cb2-414b-a98a-ddb40421c067")
-	)
-	(wire
-		(pts
-			(xy 39.37 59.69) (xy 39.37 72.39)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "f66d013d-a8f1-47ef-8e81-a379497e5f27")
 	)
 	(wire
 		(pts
@@ -7045,7 +7253,7 @@
 				(hide yes)
 			)
 		)
-		(property "PARTNO" "INA849DR‎ "
+		(property "PARTNO" "INA849DR"
 			(at 59.69 36.83 0)
 			(effects
 				(font
@@ -7742,6 +7950,7 @@
 		)
 	)
 	(symbol
+		(lib_name "D_1")
 		(lib_id "Device:D")
 		(at 195.58 71.12 0)
 		(unit 1)
@@ -7844,7 +8053,7 @@
 		(pin "1"
 			(uuid "10096cf6-0816-4c60-a59e-7386c7c62cef")
 		)
-		(pin "2"
+		(pin "3"
 			(uuid "ad1eef80-abf7-427f-b12a-168e37e022ad")
 		)
 		(instances
@@ -8560,7 +8769,7 @@
 				)
 			)
 		)
-		(property "Value" "EG6100-ND"
+		(property "Value" "SW_DP3T"
 			(at 179.705 36.83 0)
 			(effects
 				(font
@@ -9486,7 +9695,7 @@
 		(pin "1"
 			(uuid "79b22f00-dc14-4c98-a082-5e5c0d1e5901")
 		)
-		(pin "2"
+		(pin "3"
 			(uuid "ef26041f-9fe8-47ac-870f-d9bf6d140688")
 		)
 		(instances
@@ -10427,7 +10636,7 @@
 				(hide yes)
 			)
 		)
-		(property "PARTNO" "INA849DR‎ "
+		(property "PARTNO" "INA849DR"
 			(at 60.96 67.31 0)
 			(effects
 				(font
