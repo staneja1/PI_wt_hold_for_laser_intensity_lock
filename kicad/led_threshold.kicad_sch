@@ -2709,6 +2709,375 @@
 			)
 			(embedded_fonts no)
 		)
+		(symbol "library_intensity_pi:TMUX6123_split"
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "U14"
+				(at -0.762 3.556 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "TMUX6123"
+				(at 2.032 5.334 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" "Package_SO:VSSOP-10_3x3mm_P0.5mm"
+				(at -3.81 8.89 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" ""
+				(at -40.64 9.398 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" ""
+				(at -3.81 8.89 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "DIGIKEY" "296-53449-1-ND"
+				(at -30.988 8.128 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "PARTNO" "TMUX6123DGSR"
+				(at -8.128 16.256 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_locked" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(symbol "TMUX6123_split_1_1"
+				(rectangle
+					(start -3.81 2.54)
+					(end 3.81 -2.54)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -3.81 0) (xy -1.27 0) (xy 1.27 1.27)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 1.27 0) (xy 3.81 0)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(text "D1"
+					(at -2.286 -1.27 0)
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(text "S1"
+					(at 2.54 -1.27 0)
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at -6.35 0 0)
+					(length 2.54)
+					(name ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at 6.35 0 180)
+					(length 2.54)
+					(name ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(symbol "TMUX6123_split_2_1"
+				(rectangle
+					(start -3.81 2.54)
+					(end 3.81 -2.54)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -3.81 0) (xy -1.27 0) (xy 1.27 1.27)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 1.27 0) (xy 3.81 0)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(text "D2"
+					(at -2.286 -1.524 0)
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(text "S2"
+					(at 2.54 -1.524 0)
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at -6.35 0 0)
+					(length 2.54)
+					(name ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "4"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at 6.35 0 180)
+					(length 2.54)
+					(name ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "5"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(symbol "TMUX6123_split_3_1"
+				(rectangle
+					(start -2.54 2.54)
+					(end 3.81 -5.08)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin input line
+					(at -5.08 0 0)
+					(length 2.54)
+					(name "SEL1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at -5.08 -2.54 0)
+					(length 2.54)
+					(name "SEL2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "10"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(symbol "TMUX6123_split_4_1"
+				(rectangle
+					(start -2.54 2.54)
+					(end 3.81 -7.62)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin power_in line
+					(at -5.08 0 0)
+					(length 2.54)
+					(name "VDD"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "9"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin power_in line
+					(at -5.08 -2.54 0)
+					(length 2.54)
+					(name "GND"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "8"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin power_in line
+					(at -5.08 -5.08 0)
+					(length 2.54)
+					(name "VSS"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "6"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
 		(symbol "power:+12V"
 			(power)
 			(pin_names
@@ -3324,6 +3693,12 @@
 		(uuid "28b42bfb-f30f-4e33-a239-9f7bbd995dc9")
 	)
 	(junction
+		(at 189.23 49.53)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "2c1c1065-9043-4b3f-9a7f-3a30d8729944")
+	)
+	(junction
 		(at 123.19 85.09)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -3360,6 +3735,12 @@
 		(uuid "c61036d5-7991-44a1-bc39-45d8c7c3485f")
 	)
 	(junction
+		(at 189.23 46.99)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "cb346d04-f884-46b6-82b0-cb2e4380afb2")
+	)
+	(junction
 		(at 81.28 91.44)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -3380,10 +3761,6 @@
 	(no_connect
 		(at 151.13 127)
 		(uuid "0f0d9436-729c-4bfe-8b89-641dc619e87e")
-	)
-	(no_connect
-		(at 185.42 63.5)
-		(uuid "2b574839-d0f5-4db8-babe-cc1e119973e5")
 	)
 	(wire
 		(pts
@@ -3424,6 +3801,16 @@
 			(type default)
 		)
 		(uuid "110efb91-8a45-40f2-8e7b-607a004515a2")
+	)
+	(wire
+		(pts
+			(xy 189.23 44.45) (xy 189.23 46.99)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "12a3d078-aa75-48d2-95bf-859a493990f3")
 	)
 	(wire
 		(pts
@@ -3474,6 +3861,16 @@
 			(type default)
 		)
 		(uuid "1b6ea824-8237-4823-9c99-e64ed2cd429e")
+	)
+	(wire
+		(pts
+			(xy 200.66 49.53) (xy 198.12 49.53)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2bb8150b-0630-4179-af57-702e615d619c")
 	)
 	(wire
 		(pts
@@ -3647,6 +4044,16 @@
 	)
 	(wire
 		(pts
+			(xy 189.23 46.99) (xy 189.23 49.53)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5476ee4c-ed02-4141-b524-91f51e06be9f")
+	)
+	(wire
+		(pts
 			(xy 81.28 87.63) (xy 93.98 87.63)
 		)
 		(stroke
@@ -3664,6 +4071,16 @@
 			(type default)
 		)
 		(uuid "59fb122c-2920-4d53-9823-16ed0b8d070b")
+	)
+	(wire
+		(pts
+			(xy 200.66 50.8) (xy 200.66 49.53)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5bf9432e-986a-4ec9-b8a4-cad3ee15492c")
 	)
 	(wire
 		(pts
@@ -3734,6 +4151,26 @@
 			(type default)
 		)
 		(uuid "71c44a25-aaf7-4b60-a107-830dc9306f99")
+	)
+	(wire
+		(pts
+			(xy 189.23 49.53) (xy 189.23 63.5)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "75fd9e57-2a2e-445b-833a-0076b0722755")
+	)
+	(wire
+		(pts
+			(xy 191.77 46.99) (xy 189.23 46.99)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "79a2b053-24a8-4748-b852-c18f8baed98a")
 	)
 	(wire
 		(pts
@@ -3837,6 +4274,16 @@
 	)
 	(wire
 		(pts
+			(xy 191.77 44.45) (xy 191.77 46.99)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9acc8688-72d2-4f4c-96af-2adf14df5687")
+	)
+	(wire
+		(pts
 			(xy 100.33 58.42) (xy 100.33 50.8)
 		)
 		(stroke
@@ -3844,6 +4291,16 @@
 			(type default)
 		)
 		(uuid "9ad16957-9558-474a-9761-047d4340c701")
+	)
+	(wire
+		(pts
+			(xy 185.42 63.5) (xy 189.23 63.5)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9b3d4b63-08ca-4035-9b85-a285bd4eda0e")
 	)
 	(wire
 		(pts
@@ -3884,6 +4341,16 @@
 			(type default)
 		)
 		(uuid "a2cd31f2-8f13-4d18-a42a-a27a8b7186a2")
+	)
+	(wire
+		(pts
+			(xy 189.23 49.53) (xy 190.5 49.53)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a533c05e-90ce-4b0e-b0f7-e30ca1b02984")
 	)
 	(wire
 		(pts
@@ -4194,6 +4661,73 @@
 				)
 				(justify right)
 				(hide yes)
+			)
+		)
+	)
+	(symbol
+		(lib_name "GND_1")
+		(lib_id "power:GND")
+		(at 200.66 50.8 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "013c1acb-9bfa-4a64-8a1f-e8ec67dc39f7")
+		(property "Reference" "#PWR0100"
+			(at 200.66 57.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 200.66 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 200.66 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 200.66 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 200.66 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "56dcc586-c11b-4bf7-a0a4-4815adc74a86")
+		)
+		(instances
+			(project "intensity_pi"
+				(path "/3a3d7bcb-6fa5-41ef-9ea1-6d4ab7c492fd/0e4e37c0-2fc7-4de2-ba74-9d178da3762c"
+					(reference "#PWR0100")
+					(unit 1)
+				)
 			)
 		)
 	)
@@ -4607,6 +5141,102 @@
 			(project "intensity_pi"
 				(path "/3a3d7bcb-6fa5-41ef-9ea1-6d4ab7c492fd/0e4e37c0-2fc7-4de2-ba74-9d178da3762c"
 					(reference "#PWR063")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R_US")
+		(at 194.31 49.53 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "0cbf394b-7eba-4a33-a8c8-79fb62d15203")
+		(property "Reference" "R55"
+			(at 191.77 54.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "10k"
+			(at 195.58 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
+			(at 194.056 50.546 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 194.31 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 194.31 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" ""
+			(at 194.31 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DIGIKEY" "2019-RN73H2ATTD1002B25CT-ND"
+			(at 194.31 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PARTNO" "RN73H2ATTD1002B25"
+			(at 194.31 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "2a26f087-c8be-47fd-9aba-e4e607232048")
+		)
+		(pin "2"
+			(uuid "6ff77b4a-feee-49b4-bc2f-32a8ccc5ecb7")
+		)
+		(instances
+			(project "intensity_pi"
+				(path "/3a3d7bcb-6fa5-41ef-9ea1-6d4ab7c492fd/0e4e37c0-2fc7-4de2-ba74-9d178da3762c"
+					(reference "R55")
 					(unit 1)
 				)
 			)
@@ -5763,6 +6393,123 @@
 				(path "/3a3d7bcb-6fa5-41ef-9ea1-6d4ab7c492fd/0e4e37c0-2fc7-4de2-ba74-9d178da3762c"
 					(reference "U21")
 					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "library_intensity_pi:TMUX6123_split")
+		(at 189.23 39.37 90)
+		(unit 3)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "64c499eb-5e58-4b9a-ada4-53136defcea4")
+		(property "Reference" "U34"
+			(at 195.834 41.402 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "TMUX6123"
+			(at 197.866 44.196 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Package_SO:VSSOP-10_3x3mm_P0.5mm"
+			(at 180.34 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 179.832 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 180.34 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DIGIKEY" "296-53449-1-ND"
+			(at 181.102 70.358 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PARTNO" "TMUX6123DGSR"
+			(at 172.974 47.498 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" ""
+			(at 189.23 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "10"
+			(uuid "84f1a16c-439e-4fc9-b1f0-17cd1e1b18b8")
+		)
+		(pin "3"
+			(uuid "afd7238f-f330-4720-93d8-d3d917b2ecbc")
+		)
+		(pin "4"
+			(uuid "bd3efcab-37ad-414f-94a8-b1ff78e25b1c")
+		)
+		(pin "2"
+			(uuid "f70a013f-0252-4855-b1e1-a1837010218d")
+		)
+		(pin "9"
+			(uuid "7971e0b6-107d-4214-b88d-ff2c28a03fe1")
+		)
+		(pin "1"
+			(uuid "5d1ab438-4e17-42cc-883d-63ce4f9d08bc")
+		)
+		(pin "5"
+			(uuid "5f706d08-f810-425a-8ff6-6ec846c30d1a")
+		)
+		(pin "6"
+			(uuid "991c8134-bdd2-4954-a8c2-bf524d5d43f3")
+		)
+		(pin "8"
+			(uuid "92fbcb48-740a-4950-8c39-429a4a19770e")
+		)
+		(instances
+			(project "intensity_pi"
+				(path "/3a3d7bcb-6fa5-41ef-9ea1-6d4ab7c492fd/0e4e37c0-2fc7-4de2-ba74-9d178da3762c"
+					(reference "U34")
+					(unit 3)
 				)
 			)
 		)
@@ -7240,10 +7987,9 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "eb9101fe-621c-4a6b-bfc3-75723c3b6291")
 		(property "Reference" "D3"
-			(at 205.8035 54.61 0)
+			(at 205.74 75.438 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7251,7 +7997,7 @@
 			)
 		)
 		(property "Value" "LED_Dual_KKA"
-			(at 205.8035 57.15 0)
+			(at 205.74 72.898 0)
 			(effects
 				(font
 					(size 1.27 1.27)

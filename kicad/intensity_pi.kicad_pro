@@ -708,6 +708,10 @@
     [
       "0e4e37c0-2fc7-4de2-ba74-9d178da3762c",
       "Error Threshold LED Control"
+    ],
+    [
+      "e5e2bc93-86a3-4c55-a500-b723f214f000",
+      "Output_Clamping"
     ]
   ],
   "text_variables": {}
