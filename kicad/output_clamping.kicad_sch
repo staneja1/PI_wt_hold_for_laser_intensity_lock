@@ -2557,12 +2557,6 @@
 		(uuid "acb01839-c0fe-4bce-946c-14260fa2aafd")
 	)
 	(junction
-		(at 190.5 55.88)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "b063aec3-0c60-4a12-8fa3-78e66b62b1f8")
-	)
-	(junction
 		(at 208.915 57.15)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -2731,26 +2725,6 @@
 			(type default)
 		)
 		(uuid "0f1dd8d8-9370-4555-9521-6db2f20cd57f")
-	)
-	(wire
-		(pts
-			(xy 190.5 55.88) (xy 190.5 62.23)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "0f31517f-2049-486b-906d-5f7f5004cbb8")
-	)
-	(wire
-		(pts
-			(xy 190.5 44.45) (xy 190.5 45.72)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "0f3dc5cc-6e2b-46a9-8da1-c839c6796e05")
 	)
 	(wire
 		(pts
@@ -3114,7 +3088,7 @@
 	)
 	(wire
 		(pts
-			(xy 190.5 69.85) (xy 190.5 71.12)
+			(xy 190.5 62.23) (xy 190.5 71.12)
 		)
 		(stroke
 			(width 0)
@@ -3221,16 +3195,6 @@
 			(type default)
 		)
 		(uuid "5aaf6fb5-ad54-4ee6-9ad1-afbfea546711")
-	)
-	(wire
-		(pts
-			(xy 190.5 53.34) (xy 190.5 55.88)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "5c80c65c-64a7-4cc8-9f72-e3301d95f56a")
 	)
 	(wire
 		(pts
@@ -3451,16 +3415,6 @@
 			(type default)
 		)
 		(uuid "7daf4128-41bc-4aea-a090-8611d3c92911")
-	)
-	(wire
-		(pts
-			(xy 186.69 55.88) (xy 190.5 55.88)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "82799dd3-c891-4299-a383-f8d13fa5916a")
 	)
 	(wire
 		(pts
@@ -3764,16 +3718,6 @@
 	)
 	(wire
 		(pts
-			(xy 186.69 57.15) (xy 186.69 55.88)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "c6b934f2-264e-4552-8b22-c8a209be6d9d")
-	)
-	(wire
-		(pts
 			(xy 190.5 71.12) (xy 190.5 72.39)
 		)
 		(stroke
@@ -3891,6 +3835,16 @@
 			(type default)
 		)
 		(uuid "d93d9373-8a34-4ff7-9991-4fe7e8de2399")
+	)
+	(wire
+		(pts
+			(xy 190.5 44.45) (xy 190.5 54.61)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d9815707-c429-45ad-bec4-ba71199a0732")
 	)
 	(wire
 		(pts
@@ -4720,7 +4674,7 @@
 	)
 	(symbol
 		(lib_id "Reference_Voltage:LM4040DBZ-5")
-		(at 190.5 66.04 90)
+		(at 190.5 58.42 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -4728,7 +4682,7 @@
 		(dnp no)
 		(uuid "19336824-d629-460f-829c-bac9e1966b07")
 		(property "Reference" "U33"
-			(at 193.675 65.405 90)
+			(at 193.675 57.785 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4737,7 +4691,7 @@
 			)
 		)
 		(property "Value" "LM4040DBZ-5"
-			(at 184.785 69.85 90)
+			(at 184.785 62.23 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4746,7 +4700,7 @@
 			)
 		)
 		(property "Footprint" "Package_TO_SOT_SMD:SOT-23"
-			(at 195.58 66.04 0)
+			(at 195.58 58.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4756,7 +4710,7 @@
 			)
 		)
 		(property "Datasheet" "http://www.ti.com/lit/ds/symlink/lm4040-n.pdf"
-			(at 190.5 66.04 0)
+			(at 190.5 58.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4766,7 +4720,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 190.5 66.04 0)
+			(at 190.5 58.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4775,7 +4729,7 @@
 			)
 		)
 		(property "PARTNO" "LM4040B50FTA"
-			(at 190.5 66.04 90)
+			(at 190.5 58.42 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4784,7 +4738,7 @@
 			)
 		)
 		(property "DIGIKEY" "LM4040B50FTADICT-ND"
-			(at 190.5 66.04 90)
+			(at 190.5 58.42 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4793,7 +4747,7 @@
 			)
 		)
 		(property "MPN" ""
-			(at 190.5 66.04 90)
+			(at 190.5 58.42 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7748,72 +7702,6 @@
 		)
 	)
 	(symbol
-		(lib_id "power:GND")
-		(at 186.69 57.15 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "8f970f17-1cc7-495f-9b6c-35298fd6997b")
-		(property "Reference" "#PWR099"
-			(at 186.69 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 186.69 62.23 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 186.69 57.15 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 186.69 57.15 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 186.69 57.15 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "13cf4699-befe-4402-91cf-58ef7763a14d")
-		)
-		(instances
-			(project "intensity_pi"
-				(path "/3a3d7bcb-6fa5-41ef-9ea1-6d4ab7c492fd/e5e2bc93-86a3-4c55-a500-b723f214f000"
-					(reference "#PWR099")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:-15V")
 		(at 81.28 154.94 180)
 		(unit 1)
@@ -8098,104 +7986,6 @@
 			(project "intensity_pi"
 				(path "/3a3d7bcb-6fa5-41ef-9ea1-6d4ab7c492fd/e5e2bc93-86a3-4c55-a500-b723f214f000"
 					(reference "#PWR046")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Reference_Voltage:LM4040DBZ-5")
-		(at 190.5 49.53 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "a51504be-3caa-4a30-b703-213d7a943b6d")
-		(property "Reference" "U32"
-			(at 193.675 48.895 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "LM4040DBZ-5"
-			(at 186.69 41.91 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" "Package_TO_SOT_SMD:SOT-23"
-			(at 195.58 49.53 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(italic yes)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "http://www.ti.com/lit/ds/symlink/lm4040-n.pdf"
-			(at 190.5 49.53 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(italic yes)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 190.5 49.53 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "PARTNO" "LM4040B50FTA"
-			(at 190.5 49.53 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "DIGIKEY" "LM4040B50FTADICT-ND"
-			(at 190.5 49.53 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MPN" ""
-			(at 190.5 49.53 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "3605a8bb-64ea-40c5-9171-7e559ee886bd")
-		)
-		(pin "2"
-			(uuid "bcb4be5c-ba7d-43d6-9125-7648532a33a8")
-		)
-		(instances
-			(project "intensity_pi"
-				(path "/3a3d7bcb-6fa5-41ef-9ea1-6d4ab7c492fd/e5e2bc93-86a3-4c55-a500-b723f214f000"
-					(reference "U32")
 					(unit 1)
 				)
 			)
