@@ -629,7 +629,7 @@
           "group_by": false,
           "label": "Qty",
           "name": "${QUANTITY}",
-          "show": true
+          "show": false
         },
         {
           "group_by": false,
@@ -647,13 +647,13 @@
           "group_by": true,
           "label": "DIGIKEY",
           "name": "DIGIKEY",
-          "show": true
+          "show": false
         },
         {
           "group_by": false,
           "label": "PARTNO",
           "name": "PARTNO",
-          "show": true
+          "show": false
         },
         {
           "group_by": false,
@@ -683,7 +683,25 @@
           "group_by": false,
           "label": "MOUSER",
           "name": "MOUSER",
-          "show": true
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Digikey Link",
+          "name": "Digikey Link",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Sim.Type",
+          "name": "Sim.Type",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Tag",
+          "name": "Tag",
+          "show": false
         }
       ],
       "filter_string": "",
@@ -760,11 +778,11 @@
     ],
     [
       "a04c5785-e230-4149-bf27-97ee4701c201",
-      "Supply_and_filtering"
+      "Supply_filtering_switches"
     ],
     [
       "0e4e37c0-2fc7-4de2-ba74-9d178da3762c",
-      "Error Threshold LED Control"
+      "Error_Threshold_LED_Control"
     ],
     [
       "e5e2bc93-86a3-4c55-a500-b723f214f000",
