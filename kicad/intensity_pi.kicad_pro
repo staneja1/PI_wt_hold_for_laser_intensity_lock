@@ -60,7 +60,7 @@
           "hatch_smoothing_level": 0,
           "hatch_smoothing_value": 0.1,
           "hatch_thickness": 1.0,
-          "min_clearance": 6.0,
+          "min_clearance": 0.508,
           "min_island_area": 10.0,
           "min_thickness": 0.25,
           "pad_connection": 1,
@@ -702,6 +702,12 @@
           "label": "Tag",
           "name": "Tag",
           "show": false
+        },
+        {
+          "group_by": false,
+          "label": "MFN",
+          "name": "MFN",
+          "show": false
         }
       ],
       "filter_string": "",
@@ -768,7 +774,7 @@
         "uuid": "3a3d7bcb-6fa5-41ef-9ea1-6d4ab7c492fd"
       }
     ],
-    "used_designators": "",
+    "used_designators": "SW7-10,RV8-10,TP9-11,U27-37,Q4-7,#PWR113-156,C62-94,D6-11,R21-22,R64-104,J7-14",
     "variants": []
   },
   "sheets": [
@@ -787,6 +793,14 @@
     [
       "e5e2bc93-86a3-4c55-a500-b723f214f000",
       "Output_Clamping"
+    ],
+    [
+      "53f068f9-0855-467e-ad90-ab6c317c90f2",
+      "Test_Board"
+    ],
+    [
+      "2ef0161b-f552-4c63-b07e-ecf264f077fe",
+      "Test_VCA"
     ]
   ],
   "text_variables": {},

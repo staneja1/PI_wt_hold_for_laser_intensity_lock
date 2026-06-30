@@ -2285,7 +2285,7 @@
 		)
 		(uuid "5065b790-748b-4dd2-8347-f5b1105ce16e")
 	)
-	(text "Set V+ = 0"
+	(text "Set V- = 0"
 		(exclude_from_sim no)
 		(at 98.044 64.77 0)
 		(effects
