@@ -1,0 +1,175 @@
+(footprint "Right Angle SP3T Vertical"
+	(version 20260206)
+	(generator "pcbnew")
+	(generator_version "10.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at 0 8.85 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "9d8ae8f3-8ff9-407b-b681-62883e494376")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+		)
+	)
+	(property "Value" "Right Angle SP3T Vertical"
+		(at 0 10.35 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "b1d9ce51-e877-48b4-9fd9-9c61a8db7726")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "0f255501-7d3f-481f-a05f-071a87c9106d")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "1ee587a4-a39d-4791-b55c-0d1973311c54")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(duplicate_pad_numbers_are_jumpers no)
+	(fp_line
+		(start -14.75 -5.715)
+		(end -14.75 5.715)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "f05a8941-0099-4de6-8194-db2143be5237")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 11.85 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "c7ef408e-8ce4-4e4d-a933-45bf297419b4")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "1" thru_hole circle
+		(at 0 -2.415)
+		(size 3 3)
+		(drill 1.85)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(thermal_bridge_angle 90)
+		(uuid "d41e43eb-c977-4523-8cec-5c53c7ddd8aa")
+	)
+	(pad "2" thru_hole circle
+		(at 3.81 -2.415)
+		(size 3 3)
+		(drill 1.85)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(thermal_bridge_angle 90)
+		(uuid "7c5e014c-8693-45f9-b466-0aa9af4ecbce")
+	)
+	(pad "3" thru_hole circle
+		(at 7.62 -2.415)
+		(size 3 3)
+		(drill 1.85)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(thermal_bridge_angle 90)
+		(uuid "b776bce1-75f0-417d-8fad-4d1d5b6f7320")
+	)
+	(pad "4" thru_hole circle
+		(at 0 2.415)
+		(size 3 3)
+		(drill 1.85)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(thermal_bridge_angle 90)
+		(uuid "80888122-8ee7-45f9-8d0c-d3a81e6804c4")
+	)
+	(pad "5" thru_hole circle
+		(at 3.81 2.415)
+		(size 3 3)
+		(drill 1.85)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(thermal_bridge_angle 90)
+		(uuid "7059ae0a-abb3-4933-b2eb-2d7ae691581b")
+	)
+	(pad "6" thru_hole circle
+		(at 7.62 2.415)
+		(size 3 3)
+		(drill 1.85)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(thermal_bridge_angle 90)
+		(uuid "279dbdde-2e14-4fe3-a732-f10540ad9de4")
+	)
+	(pad "7" thru_hole circle
+		(at -12.7 -2.54 180)
+		(size 3 3)
+		(drill 1.85)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(thermal_bridge_angle 90)
+		(uuid "d4420199-74b6-4f52-b89f-1cc3b34bec7d")
+	)
+	(pad "7" thru_hole circle
+		(at -12.7 2.54 180)
+		(size 3 3)
+		(drill 1.85)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(thermal_bridge_angle 90)
+		(uuid "78e6b375-c7cf-418d-b57f-fe859c682841")
+	)
+	(embedded_fonts no)
+	(model "${KIPRJMOD}/100SPxT2B4M7xE.stp"
+		(offset
+			(xyz 3.56 7.3 6.35)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -90 -90 -90)
+		)
+	)
+	(model "${KIPRJMOD}/100SPxT2B4M7xE.stp"
+		(offset
+			(xyz 3.56 -7.3 6.35)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -90 -90 -90)
+		)
+	)
+)
